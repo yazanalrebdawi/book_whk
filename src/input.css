@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.input_shape {
+  @apply bg-transparent w-full py-3.5 block border-solid border-b-2 border-b-white focus:outline-none;
+}
